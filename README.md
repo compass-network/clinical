@@ -1,7 +1,12 @@
 # COMPASS pilot
 
-## Author informations
-Nicolas Sauthier, MD, BEng
+## Authors informations
+Corresponding author:
+Dr Michael Chassé, MD, PhD
+michael.chasse.med@ssss.gouv.qc.ca 
+
+Main author:
+Nicolas Sauthier, MD, MSc(c), BEng
 nicolas.sauthier@umontreal.ca
 
 
