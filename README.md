@@ -60,7 +60,7 @@ The main.py file walk through all the steps from training to sensitivity analysi
 3. Data are transformed from the tidy list into a 3D format including scaling and imputation.
 4. The autoencodeur is initialized, trained and used to transform 3D temporal data to a vector of dim=64
 5. Classifiers are initialized, trained and used to predict on the test set with metrics calculated
-6. Sensitivity analysis i.e. removing labs and checking the accuracy *this is a long par computation wise*
+6. Sensitivity analysis i.e. removing labs and checking the accuracy *this takes a long time to compute*
 7. Simulation of prospective, i.e. data are removed from the prediction time wise to blind model to the most recent lab results.
 
 
